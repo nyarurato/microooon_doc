@@ -1,12 +1,14 @@
 # Microooon Cases
 
-1. microooon-case.stl
-Šî”Õ•\–Ê‚ÉProMicroAƒgƒ‰ƒbƒNƒ{[ƒ‹ƒ‚ƒWƒ…[ƒ‹‚ðŽÀ‘•‚µ‚½ê‡‚Í‚±‚¿‚ç‚ð‚²—˜—p‚­‚¾‚³‚¢B
+1. [microooon-case.stl](https://github.com/nyarurato/microooon_doc/blob/main/case/microooon-case.stl)
 
-2. microooon-case_back.stl
-Šî”Â— –Ê‚ÉProMicroAƒgƒ‰ƒbƒNƒ{[ƒ‹ƒ‚ƒWƒ…[ƒ‹‚ðŽÀ‘•‚µ‚½ê‡‚Í‚±‚¿‚ç‚ð‚²—˜—p‚­‚¾‚³‚¢B
-USBƒP[ƒuƒ‹Žæ‚è•t‚¯‚Ì‚½‚ß‚ÌØ‚èŒ‡‚«AŽæ‚è•t‚¯êŠ‚ÌƒlƒWŽ²‚ª40mm‚Ù‚Ç’á‚­ÝŒv‚³‚ê‚Ä‚¢‚Ü‚·B
+åŸºæ¿è¡¨é¢ã«ProMicroã€ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’å®Ÿè£…ã—ãŸå ´åˆã¯ã“ã¡ã‚‰ã‚’ã”åˆ©ç”¨ãã ã•ã„ã€‚
 
-‚Ç‚¿‚ç‚àŽæ‚è•t‚¯Ž²‚ÌƒlƒWŒŠŒo‚Íu2.8mmv‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·B
+2. [microooon-case_back.stl](https://github.com/nyarurato/microooon_doc/blob/main/case/microooon-case_back.stl)
 
-ƒP[ƒXƒ‚ƒfƒ‹»ìŽÒFƒVƒ_i[@siddalt](https://twitter.com/siddalt)j
+åŸºæ¿è£é¢ã«ProMicroã€ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’å®Ÿè£…ã—ãŸå ´åˆã¯ã“ã¡ã‚‰ã‚’ã”åˆ©ç”¨ãã ã•ã„ã€‚
+USBã‚±ãƒ¼ãƒ–ãƒ«å–ã‚Šä»˜ã‘ã®ãŸã‚ã®åˆ‡ã‚Šæ¬ ãã€å–ã‚Šä»˜ã‘å ´æ‰€ã®ãƒã‚¸è»¸ãŒ40mmã»ã©ä½Žãè¨­è¨ˆã•ã‚Œã¦ã„ã¾ã™ã€‚
+
+ã©ã¡ã‚‰ã‚‚å–ã‚Šä»˜ã‘è»¸ã®ãƒã‚¸ç©´çµŒã¯ã€Œ2.8mmã€ã¨ãªã£ã¦ãŠã‚Šã¾ã™ã€‚
+
+ã‚±ãƒ¼ã‚¹ãƒ¢ãƒ‡ãƒ«è£½ä½œè€…ï¼šã‚·ãƒ€ï¼ˆ[@siddalt](https://twitter.com/siddalt)ï¼‰
